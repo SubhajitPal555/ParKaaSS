@@ -13,7 +13,7 @@ Your Smart Parking Solution
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [References](#references)
+- [Technologies](#technologies)
 - [Author Info](#author-info)
 
 ---
