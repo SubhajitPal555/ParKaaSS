@@ -37,7 +37,7 @@ ParKaaSS is a solution for the smart parking system.
 - RestAPI
 - ffmpeg protocol
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#ParkaaSS)
 
 ---
 
