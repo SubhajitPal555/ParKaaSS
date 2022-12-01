@@ -1,11 +1,11 @@
 # ParKaaSS 
 
-##Your Smart Parking Solution
+Your Smart Parking Solution
 
 
 ![Screenshot](https://user-images.githubusercontent.com/75924783/205169564-847a6ac4-1cf0-4441-8e0c-83da95004e15.jpg)
 
-> This is a ReadMe gives an overview of the project done.
+> PROJECT OVERVIEW :
 
 ---
 
