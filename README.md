@@ -2,7 +2,7 @@
 
 ##Your Smart Parking Solution
 
-![Project Image](project-image-url)
+![Project Image](![Uploading Screenshot 2022-12-02 at 3.25.06 AM.png…])
 
 > This is a ReadMe gives an overview of the project done.
 
