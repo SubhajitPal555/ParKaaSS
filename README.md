@@ -34,7 +34,8 @@ ParKaaSS is a solution for the smart parking system.
 - MASK RCNN
 - Tensorflow
 - Python libraries (numpy, pickle)
-- RestAPI
+- TwilioAPI
+- ResNet
 - ffmpeg protocol
 
 [Back To The Top](#ParkaaSS)
